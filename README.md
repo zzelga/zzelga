@@ -1,3 +1,3 @@
 # What's up?
 
-I'm a Staff Software Engineer at [Stavvy](https://www.stavvy.com)
+I'm a Senior Software Engineer at [Regression Games](https://www.regression.gg)
